@@ -280,38 +280,71 @@
       "idu": 51842
     }
   ],
-  "rapport": [
+ "rapport": [
     {
       "id": "975",
       "username": "prof",
       "iduti": 2,
-      "subject": "ee",
-      "message": "e",
+      "subject": "Absence de candidature",
+      "message": "Aucune candidature reçue pour le poste de professeur de mathématiques.",
       "date_envoy": 2024
     },
     {
       "id": "98",
       "username": "prof",
       "iduti": 2,
-      "subject": "ee",
-      "message": "e",
+      "subject": "Problème de recrutement",
+      "message": "Difficultés à attirer des candidats qualifiés pour les postes vacants.",
       "date_envoy": 2024
     },
     {
       "id": "75",
       "username": "prof",
       "iduti": 2,
-      "subject": "ee",
-      "message": "e",
+      "subject": "Manque de candidatures",
+      "message": "Peu de candidatures reçues pour le programme de doctorat en physique.",
       "date_envoy": 2024
     },
     {
       "id": "95",
       "username": "prof",
       "iduti": 2,
-      "subject": "ee",
-      "message": "e",
+      "subject": "Recherche de candidats",
+      "message": "Efforts en cours pour trouver des candidats pour le poste d'enseignant en littérature.",
+      "date_envoy": 2024
+    },
+    {
+      "id": "88",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "Vacance de poste",
+      "message": "Poste de chercheur en biologie moléculaire toujours vacant.",
+      "date_envoy": 2024
+    },
+    {
+      "id": "103",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "Candidatures insuffisantes",
+      "message": "Nombre insuffisant de candidatures pour le poste de professeur d'histoire.",
+      "date_envoy": 2024
+    },
+    {
+      "id": "112",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "Pas de réponses",
+      "message": "Pas de réponses aux offres d'emploi en chimie.",
+      "date_envoy": 2024
+    },
+    {
+      "id": "124",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "Poste vacant",
+      "message": "Poste d'enseignant en informatique toujours à pourvoir.",
       "date_envoy": 2024
     }
   ]
+
 }
